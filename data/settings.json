@@ -1,0 +1,15 @@
+{
+  "smtps": [
+    {
+      "id": "c1af1926-f766-468d-b5b7-0ae6dc571b46",
+      "senderName": "ReadyTax",
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "secure": false,
+      "user": "purvireadytaxjaipur@gmail.com",
+      "pass": "bewg hzov rhcg ijoj",
+      "active": true
+    }
+  ],
+  "aiKey": ""
+}

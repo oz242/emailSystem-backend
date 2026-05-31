@@ -1,0 +1,73 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Build Files
+*.class
+*.jar
+*.war
+*.ear
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Maven Wrapper Logs
+.mvn/wrapper/maven-wrapper.properties
+
+# Application Secrets
+application-local.yml
+application-local.yaml
+application-prod.yml
+application-prod.yaml
+application-dev.yml
+application-dev.yaml
+
+# Docker
+docker-compose.override.yml
+
+# Test Reports
+surefire-reports/
+failsafe-reports/
+
+# Coverage Reports
+coverage/
+jacoco.exec
+
+# Generated Files
+generated/
+out/
+
+# Cache
+.cache/
+
+# Lombok
+lombok.config
+
+# Node Modules (if frontend assets are inside backend)
+node_modules/

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "c4214d4c-d1e5-41f8-a925-9f00cb4b4de4",
+    "name": "you gay",
+    "subject": "Following up on our conversation, {{name}}",
+    "body": "Hi {{name}},\r\n\r\nI wanted to follow up on our recent conversation and see if you had any questions.\r\n\r\nWe believe our solution can genuinely help your team achieve better results. I'd love to schedule a quick 15-minute call to address any concerns.\r\n\r\nWould you be available this week?\r\n\r\nLooking forward to hearing from you.\r\n\r\nBest,\r\nThe Team",
+    "recipients": [
+      {
+        "email": "surajaheer2002@gmail.com",
+        "name": "suraj aheer",
+        "status": "sent",
+        "error": null,
+        "sentAt": "2026-05-24T08:50:36.133Z"
+      },
+      {
+        "email": "meetgupta700@gmail.com",
+        "name": "Meet gupta",
+        "status": "sent",
+        "error": null,
+        "sentAt": "2026-05-24T08:50:48.543Z"
+      },
+      {
+        "email": "meetgupta711@gmail.com",
+        "name": "meet 0000",
+        "status": "sent",
+        "error": null,
+        "sentAt": "2026-05-24T08:50:56.558Z"
+      },
+      {
+        "email": "meetgupta.ca@gmail.com",
+        "name": "CA Muthi",
+        "status": "sent",
+        "error": null,
+        "sentAt": "2026-05-24T08:51:03.824Z"
+      }
+    ],
+    "attachments": [
+      {
+        "originalname": "MILK TOTAL.xlsx",
+        "path": "C:\\Users\\meetg\\OneDrive\\Desktop\\emailSystem\\backend\\uploads\\attach-1779612626068-MILK TOTAL.xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      }
+    ],
+    "delaySeconds": "2",
+    "scheduledAt": null,
+    "status": "completed",
+    "stats": {
+      "total": 4,
+      "sent": 4,
+      "failed": 0,
+      "pending": 0
+    },
+    "createdAt": "2026-05-24T08:50:26.077Z",
+    "updatedAt": "2026-05-24T08:51:03.874Z"
+  },
+  {
+    "id": "05d20445-f962-4b9a-8208-51bcf1a50a11",
+    "name": "ReadyTax",
+    "subject": "{{name}}, you're invited to our upcoming event!",
+    "body": "Hello {{name}},\r\n\r\nWe're excited to invite you to our upcoming webinar!\r\n\r\n📅 Date: Next Tuesday at 3:00 PM IST\r\n📍 Location: Online (Zoom)\r\n\r\nTopics covered:\r\n• Latest industry trends\r\n• Live Q&A session\r\n• Networking opportunities\r\n\r\nRSVP by replying to this email.\r\n\r\nLooking forward to seeing you there!\r\n\r\nWarm regards,\r\nEvent Team",
+    "recipients": [
+      {
+        "email": "surajaheer2002@gmail.com",
+        "name": "suraj aheer",
+        "status": "sent",
+        "error": null,
+        "sentAt": "2026-05-24T08:10:23.097Z"
+      },
+      {
+        "email": "meetgupta700@gmail.com",
+        "name": "Meet gupta",
+        "status": "sent",
+        "error": null,
+        "sentAt": "2026-05-24T08:10:29.714Z"
+      }
+    ],
+    "attachments": [
+      {
+        "originalname": "README.md",
+        "path": "C:\\Users\\meetg\\OneDrive\\Desktop\\emailSystem\\backend\\uploads\\attach-1779610216981-README.md",
+        "mimetype": "text/markdown"
+      }
+    ],
+    "delaySeconds": "2",
+    "scheduledAt": null,
+    "status": "completed",
+    "stats": {
+      "total": 2,
+      "sent": 2,
+      "failed": 0,
+      "pending": 0
+    },
+    "createdAt": "2026-05-24T08:10:16.986Z",
+    "updatedAt": "2026-05-24T08:10:29.750Z"
+  },
+  {
+    "id": "7748d2e6-60e0-4298-8e6d-abaa6edf0bc2",
+    "name": "RTF",
+    "subject": "Following up on our conversation, {{name}}",
+    "body": "Hi {{name}},\r\n\r\nI wanted to follow up on our recent conversation and see if you had any questions.\r\n\r\nWe believe our solution can genuinely help your team achieve better results. I'd love to schedule a quick 15-minute call to address any concerns.\r\n\r\nWould you be available this week?\r\n\r\nLooking forward to hearing from you.\r\n\r\nBest,\r\nThe Team",
+    "recipients": [
+      {
+        "email": "surajaheer2002@gmail.com",
+        "name": "suraj aheer",
+        "status": "sent",
+        "error": null,
+        "sentAt": "2026-05-24T08:07:11.631Z"
+      },
+      {
+        "email": "meetgupta700@gmail.com",
+        "name": "Meet gupta",
+        "status": "sent",
+        "error": null,
+        "sentAt": "2026-05-24T08:07:17.716Z"
+      }
+    ],
+    "attachments": [],
+    "delaySeconds": "2",
+    "scheduledAt": null,
+    "status": "completed",
+    "stats": {
+      "total": 2,
+      "sent": 2,
+      "failed": 0,
+      "pending": 0
+    },
+    "createdAt": "2026-05-24T08:07:06.873Z",
+    "updatedAt": "2026-05-24T08:07:17.748Z"
+  },
+  {
+    "id": "4cb1dd1a-6a92-4ca8-b049-90d1e2371454",
+    "name": "rtf",
+    "subject": "Following up on our conversation, {{name}}",
+    "body": "Hi {{name}},\r\n\r\nI wanted to follow up on our recent conversation and see if you had any questions.\r\n\r\nWe believe our solution can genuinely help your team achieve better results. I'd love to schedule a quick 15-minute call to address any concerns.\r\n\r\nWould you be available this week?\r\n\r\nLooking forward to hearing from you.\r\n\r\nBest,\r\nThe Team",
+    "recipients": [
+      {
+        "email": "surajaheer2002@gmail.com",
+        "name": "suraj aheer",
+        "status": "pending",
+        "error": null,
+        "sentAt": null
+      },
+      {
+        "email": "meetgupta700@gmail.com",
+        "name": "Meet gupta",
+        "status": "pending",
+        "error": null,
+        "sentAt": null
+      }
+    ],
+    "attachments": [],
+    "delaySeconds": "2",
+    "scheduledAt": null,
+    "status": "failed",
+    "stats": {
+      "total": 2,
+      "sent": 0,
+      "failed": 0,
+      "pending": 2
+    },
+    "createdAt": "2026-05-24T08:06:02.583Z",
+    "updatedAt": "2026-05-24T08:06:02.672Z"
+  },
+  {
+    "id": "a6cb6aaf-3297-4a7c-8bec-71edee257458",
+    "name": "cmp",
+    "subject": "ght",
+    "body": "fgfg",
+    "recipients": [
+      {
+        "email": "surajaheer2002@gmail.com",
+        "name": "suraj aheer",
+        "status": "sent",
+        "error": null,
+        "sentAt": "2026-05-24T07:24:58.481Z"
+      },
+      {
+        "email": "meetgupta700@gmail.com",
+        "name": "Meet gupta",
+        "status": "sent",
+        "error": null,
+        "sentAt": "2026-05-24T07:25:04.220Z"
+      }
+    ],
+    "attachments": [],
+    "delaySeconds": "2",
+    "scheduledAt": null,
+    "status": "completed",
+    "stats": {
+      "total": 2,
+      "sent": 2,
+      "failed": 0,
+      "pending": 0
+    },
+    "createdAt": "2026-05-24T07:24:53.454Z",
+    "updatedAt": "2026-05-24T07:25:04.274Z"
+  }
+]

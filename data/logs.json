@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1779612663857-kll0av3",
+    "campaignId": "c4214d4c-d1e5-41f8-a925-9f00cb4b4de4",
+    "recipientEmail": "SYSTEM",
+    "status": "success",
+    "message": "Campaign finished! All recipients processed.",
+    "timestamp": "2026-05-24T08:51:03.857Z"
+  },
+  {
+    "id": "1779612663824-eq1u7ib",
+    "campaignId": "c4214d4c-d1e5-41f8-a925-9f00cb4b4de4",
+    "recipientEmail": "meetgupta.ca@gmail.com",
+    "status": "success",
+    "message": "Email sent successfully via purvireadytaxjaipur@gmail.com",
+    "timestamp": "2026-05-24T08:51:03.824Z"
+  },
+  {
+    "id": "1779612656558-ftqllap",
+    "campaignId": "c4214d4c-d1e5-41f8-a925-9f00cb4b4de4",
+    "recipientEmail": "meetgupta711@gmail.com",
+    "status": "success",
+    "message": "Email sent successfully via purvireadytaxjaipur@gmail.com",
+    "timestamp": "2026-05-24T08:50:56.558Z"
+  },
+  {
+    "id": "1779612648543-23b8kdb",
+    "campaignId": "c4214d4c-d1e5-41f8-a925-9f00cb4b4de4",
+    "recipientEmail": "meetgupta700@gmail.com",
+    "status": "success",
+    "message": "Email sent successfully via purvireadytaxjaipur@gmail.com",
+    "timestamp": "2026-05-24T08:50:48.543Z"
+  },
+  {
+    "id": "1779612636133-k2ciz6m",
+    "campaignId": "c4214d4c-d1e5-41f8-a925-9f00cb4b4de4",
+    "recipientEmail": "surajaheer2002@gmail.com",
+    "status": "success",
+    "message": "Email sent successfully via purvireadytaxjaipur@gmail.com",
+    "timestamp": "2026-05-24T08:50:36.133Z"
+  },
+  {
+    "id": "1779612626123-wcmjwru",
+    "campaignId": "c4214d4c-d1e5-41f8-a925-9f00cb4b4de4",
+    "recipientEmail": "SYSTEM",
+    "status": "info",
+    "message": "Starting campaign campaign: \"you gay\" with 4 pending emails.",
+    "timestamp": "2026-05-24T08:50:26.123Z"
+  },
+  {
+    "id": "1779610229741-wuqfu19",
+    "campaignId": "05d20445-f962-4b9a-8208-51bcf1a50a11",
+    "recipientEmail": "SYSTEM",
+    "status": "success",
+    "message": "Campaign finished! All recipients processed.",
+    "timestamp": "2026-05-24T08:10:29.741Z"
+  },
+  {
+    "id": "1779610229714-q2o1rnz",
+    "campaignId": "05d20445-f962-4b9a-8208-51bcf1a50a11",
+    "recipientEmail": "meetgupta700@gmail.com",
+    "status": "success",
+    "message": "Email sent successfully via meetgupta700@gmail.com",
+    "timestamp": "2026-05-24T08:10:29.714Z"
+  },
+  {
+    "id": "1779610223097-og9hvrn",
+    "campaignId": "05d20445-f962-4b9a-8208-51bcf1a50a11",
+    "recipientEmail": "surajaheer2002@gmail.com",
+    "status": "success",
+    "message": "Email sent successfully via meetgupta700@gmail.com",
+    "timestamp": "2026-05-24T08:10:23.097Z"
+  },
+  {
+    "id": "1779610217033-dlrusu9",
+    "campaignId": "05d20445-f962-4b9a-8208-51bcf1a50a11",
+    "recipientEmail": "SYSTEM",
+    "status": "info",
+    "message": "Starting campaign campaign: \"ReadyTax\" with 2 pending emails.",
+    "timestamp": "2026-05-24T08:10:17.033Z"
+  },
+  {
+    "id": "1779610037742-683p5in",
+    "campaignId": "7748d2e6-60e0-4298-8e6d-abaa6edf0bc2",
+    "recipientEmail": "SYSTEM",
+    "status": "success",
+    "message": "Campaign finished! All recipients processed.",
+    "timestamp": "2026-05-24T08:07:17.742Z"
+  },
+  {
+    "id": "1779610037716-4jnxman",
+    "campaignId": "7748d2e6-60e0-4298-8e6d-abaa6edf0bc2",
+    "recipientEmail": "meetgupta700@gmail.com",
+    "status": "success",
+    "message": "Email sent successfully via meetgupta700@gmail.com",
+    "timestamp": "2026-05-24T08:07:17.716Z"
+  },
+  {
+    "id": "1779610031631-xck9ojo",
+    "campaignId": "7748d2e6-60e0-4298-8e6d-abaa6edf0bc2",
+    "recipientEmail": "surajaheer2002@gmail.com",
+    "status": "success",
+    "message": "Email sent successfully via meetgupta700@gmail.com",
+    "timestamp": "2026-05-24T08:07:11.631Z"
+  },
+  {
+    "id": "1779610026932-4l7he80",
+    "campaignId": "7748d2e6-60e0-4298-8e6d-abaa6edf0bc2",
+    "recipientEmail": "SYSTEM",
+    "status": "info",
+    "message": "Starting campaign campaign: \"RTF\" with 2 pending emails.",
+    "timestamp": "2026-05-24T08:07:06.932Z"
+  },
+  {
+    "id": "1779609962665-4n3b8fk",
+    "campaignId": "4cb1dd1a-6a92-4ca8-b049-90d1e2371454",
+    "recipientEmail": "SYSTEM",
+    "status": "error",
+    "message": "Failed to start queue: No active SMTP configurations found.",
+    "timestamp": "2026-05-24T08:06:02.665Z"
+  },
+  {
+    "id": "1779609962652-iuy7plf",
+    "campaignId": "4cb1dd1a-6a92-4ca8-b049-90d1e2371454",
+    "recipientEmail": "SYSTEM",
+    "status": "info",
+    "message": "Starting campaign campaign: \"rtf\" with 2 pending emails.",
+    "timestamp": "2026-05-24T08:06:02.652Z"
+  },
+  {
+    "id": "1779607504246-brx4ba4",
+    "campaignId": "a6cb6aaf-3297-4a7c-8bec-71edee257458",
+    "recipientEmail": "SYSTEM",
+    "status": "success",
+    "message": "Campaign finished! All recipients processed.",
+    "timestamp": "2026-05-24T07:25:04.246Z"
+  },
+  {
+    "id": "1779607504220-jt1811j",
+    "campaignId": "a6cb6aaf-3297-4a7c-8bec-71edee257458",
+    "recipientEmail": "meetgupta700@gmail.com",
+    "status": "success",
+    "message": "Email sent successfully via meetgupta700@gmail.com",
+    "timestamp": "2026-05-24T07:25:04.220Z"
+  },
+  {
+    "id": "1779607498481-l84m5sx",
+    "campaignId": "a6cb6aaf-3297-4a7c-8bec-71edee257458",
+    "recipientEmail": "surajaheer2002@gmail.com",
+    "status": "success",
+    "message": "Email sent successfully via meetgupta700@gmail.com",
+    "timestamp": "2026-05-24T07:24:58.481Z"
+  },
+  {
+    "id": "1779607493676-t71pvzr",
+    "campaignId": "a6cb6aaf-3297-4a7c-8bec-71edee257458",
+    "recipientEmail": "SYSTEM",
+    "status": "info",
+    "message": "Starting campaign campaign: \"cmp\" with 2 pending emails.",
+    "timestamp": "2026-05-24T07:24:53.676Z"
+  }
+]
