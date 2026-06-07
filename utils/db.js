@@ -7,7 +7,7 @@ dotenv.config();
 
 const DATA_DIR = path.join(process.cwd(), 'data');
 const UPLOADS_DIR = path.join(process.cwd(), 'uploads');
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/emailSystem';
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://surajaheer2002:suraj12345@cluster0.hcq5sxu.mongodb.net/emailSystem?retryWrites=true&w=majority';
 const MONGODB_DB_NAME = process.env.MONGODB_DB_NAME || 'emailSystem';
 
 let mongoClient;
@@ -128,6 +128,9 @@ export const clearLogsByCampaign = (campaignId) => {
 
 export async function connectMongo() {
   if (mongoDb) return mongoDb;
+
+  console.log(MONGODB_URI,"MONGODB_URI");
+  
 
   mongoClient = new MongoClient(MONGODB_URI);
   await mongoClient.connect();

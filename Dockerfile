@@ -20,6 +20,7 @@ COPY routes ./routes
 COPY scripts ./scripts
 COPY services ./services
 COPY utils ./utils
+COPY .env ./
 
 RUN mkdir -p data uploads && chown -R nodeapp:nodeapp /app
 
